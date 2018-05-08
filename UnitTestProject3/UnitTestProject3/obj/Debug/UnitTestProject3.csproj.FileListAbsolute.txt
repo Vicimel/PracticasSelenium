@@ -1,0 +1,9 @@
+c:\users\vmedina\documents\visual studio 2015\Projects\UnitTestProject3\UnitTestProject3\bin\Debug\UnitTestProject3.dll
+c:\users\vmedina\documents\visual studio 2015\Projects\UnitTestProject3\UnitTestProject3\bin\Debug\UnitTestProject3.pdb
+c:\users\vmedina\documents\visual studio 2015\Projects\UnitTestProject3\UnitTestProject3\bin\Debug\WebDriver.dll
+c:\users\vmedina\documents\visual studio 2015\Projects\UnitTestProject3\UnitTestProject3\bin\Debug\WebDriver.Support.dll
+c:\users\vmedina\documents\visual studio 2015\Projects\UnitTestProject3\UnitTestProject3\bin\Debug\WebDriver.xml
+c:\users\vmedina\documents\visual studio 2015\Projects\UnitTestProject3\UnitTestProject3\bin\Debug\WebDriver.Support.xml
+c:\users\vmedina\documents\visual studio 2015\Projects\UnitTestProject3\UnitTestProject3\obj\Debug\UnitTestProject3.csprojResolveAssemblyReference.cache
+c:\users\vmedina\documents\visual studio 2015\Projects\UnitTestProject3\UnitTestProject3\obj\Debug\UnitTestProject3.dll
+c:\users\vmedina\documents\visual studio 2015\Projects\UnitTestProject3\UnitTestProject3\obj\Debug\UnitTestProject3.pdb
